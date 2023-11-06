@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(127, 242, 255);
+}
+
+.flex{
+    display: flex;
+
+
+}
+.projetimage{width: 50%;}
+.projetimage2{width: 50%;}
+.projetimage3{width: 10%;}
+.projetimage4{width: 10%;}
+.ma-class{
+background-color: rgb(47, 118, 123);
+}
+
+.textecentre{
+    text-align: center;
+}
